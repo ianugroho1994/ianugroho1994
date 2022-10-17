@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ianugroho1994
-- 👀 I’m interested in software for hardware control
-- 🌱 I’m currently learning software architechture
-- 💞️ I’m looking to collaborate on my company
+- 👀 I’m software engineer
+- 🌱 I’m a fullstack engineer
 - 📫 How to reach me just email me
 
 <!---
