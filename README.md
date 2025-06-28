@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ianugroho1994
-- 👀 I’m software engineer
-- 🌱 I’m a fullstack engineer
+- 👀 I’m fullstack software engineer
+- this is my personal github so that's why it's pretty empty, sorry
 - 📫 Contact me at [hi.ianugroho.com](hi.ianugroho.com)
 
 <!---
